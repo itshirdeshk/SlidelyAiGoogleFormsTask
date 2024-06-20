@@ -109,7 +109,7 @@ Public Class CreateSubmissionForm
         ' Initialize and add btnToggleStopwatch
         btnToggleStopwatch = New Button()
         btnToggleStopwatch.Location = New Point(240, 350)
-        btnToggleStopwatch.Size = New Size(200, 50)
+        btnToggleStopwatch.Size = New Size(220, 50)
         btnToggleStopwatch.Text = "Toggle Stopwatch (CTRL + T)"
         btnToggleStopwatch.Font = New Font("Arial", 10, FontStyle.Bold)
         btnToggleStopwatch.BackColor = Color.LightBlue
